@@ -6,10 +6,10 @@ I'm a Front-End Developer with hands-on experience in creating responsive and dy
 
 ## 🧠 About Me
 
-- 🎓 Engineering educator with 5 years of studying psychology  
 - 💻 Experience in team and pet projects  
 - ✍️ Former copywriter — strong empathy and user-centric thinking  
 - 🌱 Currently deepening my knowledge of Node.js, SQL, and testing
+- 🎓 Engineering educator with 5 years of studying psychology  
 
 ---
 
@@ -19,11 +19,11 @@ I'm a Front-End Developer with hands-on experience in creating responsive and dy
 - **Frameworks:** React, Vue 3, Next.js (basic)  
 - **State Management:** Redux Toolkit, Pinia  
 - **Routing:** React Router  
-- **Styling:** Tailwind CSS, Bulma, ShadCN UI  
+- **Styling:** Tailwind CSS, Bulma, ShadCN UI, Bootstrap  
 - **API:** REST API, Fetch, Axios, Postman  
 - **Other:** DOM, Events, Promises, UI animations, CRUD, Form Validation  
 - **Tools:** Vite, Git, ESLint, Prettier, VS Code  
-- **Languages:** English — Intermediate
+- **Languages:** English — Intermediate, Ukrainian - Native
 
 ---
 
